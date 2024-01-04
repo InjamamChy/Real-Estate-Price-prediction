@@ -1,13 +1,3 @@
-# Project Features
-- User Authentication: Secure login system for personal use.
-- Expense Management: Ability to add, view, edit, and delete expenses.
-- Data Persistence: Save and retrieve expense data using files and databases.
-- Categorization: Organize expenses into categories.
-- Reporting: Visualize expenses with charts and summaries.
-- Interactive GUI: A user-friendly web interface using Streamlit.
-- Cloud Deployment: Deploy the application to the cloud using DigitalOcean.
-
-
 # Project Setup
 - create virtual environment
 `virtualenv env`
